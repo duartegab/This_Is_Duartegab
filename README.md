@@ -1,169 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UFT-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>gabes.</title>
-        <link rel="icon" type="image/x-icon" href="./imagens/ac-_1_.ico">
-    </head>
-    <body bgcolor="#0B1116" style="color: white;font-family:verdana">
+# This Is Duartegab
 
-        <table border="0" width="1300" height="500" callspacing="4" cellpadding="7" bgcolor="101820" background="imagens/defg.jpg">
-            
-            <tr height="50">
-               <td widht="580"><img src="imagens/ac.png" width="50" heigh="50" alt="BIRD"></td>
+Esse projeto, realizado em sala de aula, durante as aulas de Desevolvimento Web 1. Gerou o primeiro contato dos alunos com a programação, elaborando um cúrriculo pessoal por meio da criação de um site. Em minha Página Web (programada em html), você irá conhecer um pouco mais sobre mim, navegando em meus valores, formação acadêmica, experiência, habilidades e futuros objetivos. Seja bem vindo!
 
-               <!--MENU DO SITE-->
-               <td align="center" width="150" height ="50"><a href="index.html" title="Go to Home"><button class="button"
-                style="width:100;height:30;background-color:#0B1116;border:0;color:white"></b><big>HOME</big></b></button></a>
-               </td>
+## 🚀 Entrando nesse voo
 
-               <td align="center" width="150" height ="50"><a href="#about" title="Go to About"><button class="button"
-                style="width:100;height:30;background-color:#0B1116;border:0;color:white"></b><big>ABOUT</big></b></button></a>
-               </td>
+Essas instruções permitirão que você consiga navegar em meu site:
 
-               <td align="center" width="150" height ="50"><a href="#values" title="Go to Values"><button class="button"
-                style="width:100;height:30;background-color:#0B1116;border:0;color:white"></b><big>VALUES</big></b></button></a>
-               </td>
-
-               <td align="center" width="150" height ="50"><a href="#contact" title="Go to Contact"><button class="button"
-                style="width:100;height:30;background-color:#0B1116;border:0;color:white"></b><big>CONTACT</big></b></button></a>
-               </td>
-
-                <!--REDES SOCIAIS-->
-                <td align="center" width="30"><a href="https://github.com/duartegab" title"GitHub"><img src="imagens/github.png"
-                width="30" height="30"></a><td>
-                <td align="center" width="30"><a href="https://www.linkedin.com/in/gabriel-duarte-97aaa6283/?external_page=LPC.Immersive&external_control=ViewProfileLink&external_app_instance=402a2d8d-7592-4d88-8757-48e124c6da25&external_page_instance=5acca512-a73f-4eae-83a9-8efda2b4b2c2&experiment=displayLinkedInDataPrebind" title"LinkedIn"><img src="imagens/linkedlnn.png"
-                width="30" height="30"></a><td>
-                
-             </tr>
-
-                 <!--NOME DO SITE-->
-                 <tr height="200" width="1300" rowspan="8">
-                 <td width="1300" colspan="9" align="center">
-                  <h1 style="align:center"><big><big><big><b>GABRIEL DUARTE</b></big></big></big></h1>
-                   <p style="align:center"><big><big><big><b>Desenvolvedor de Software em formação, com foco nos projetos em Front-End, Matemática Computacional e Cyber Seccurity.</br>Aspirante no mundo da Tecnologia e da Programação. </br>Conheça mais um pouco sobre mim:</b></big></big></big></p>
-                 </td>
-             </tr>
-             <tr>
-                <td width="1300" height="400"></td>
-             </tr>
-        </table>
-
-    <!--GALERIA DE FOTOS-->
-       <div id="values">
-        <table border="0" width="1300" height="100" align="center" bgcolor="#0B1116">
-           <tr>
-             <td>
-               <center>
-                  <p 
-                   style="width:250;height:30;background-color:#0B1116;border:0;color:white;font-family:verdana"><big><big><b>VALUES</b< /big></big>
-                 </p>
-               </center>
-            </td>
-           </tr>
-        </table>
+Clique nesse link **[This_is_Gabes]([#-implanta%C3%A7%C3%A3o](https://luminous-torrone-a434a9.netlify.app/))** para poder acessar minha página web.
 
 
-        <table style="border:1;border-collapse: collapse" width="1300" height="300" align="center" bgcolor="#101820" align="center" border-collapse="collapse">
-              <tr>
-                <td align="center" width="400" height="500"><img src="imagens/motive.png" width="400" height="500" title="ABRAÇANDO SEMPRE NOVAS OPORTUNIDADES"></td>
-                <td align="center" width="500" height="500"><img src="imagens/sunshine.jpg" width="500" height="500" title="VISÃO ANALÍTICA EM MEU COTIDIANO"></td>
-                <td align="center" width="400" height="500"><img src="imagens/life.jpg" width="400" height="500" title="CRIATIVIDADE AFLORADA PARA FUTUROS PROJETOS"></td>
-              </td>
-              </tr>
-        </table>
-       </div>
+## 📄 Entendendo um pouco mais dessa viagem...
 
-    <!--SOBRE NÓS-->
-       <div id="about">
-         <table border="0" width="1300" height="100" align="center" bgcolor="0B1116">
-           <tr>
-             <td>
-               <center>
-                 <p style="width:250;height:30;background-color:#0B1116;border:0;color:white;font-family:verdana">
-                  <big><big><b>ABOUT</b></big></big></p>
-               </center>
-             </td>
-           </tr>
-         </table>
-
-         <table border="0" width="1300" heigth="500" align="center" bgcolor="#0B1116">
-            <tr>
-             <td rowspan="2" width="100" heigth="700"></td>
-             <td width="500" heigth="700">
-              <p style="font-family:verdana;color:lightgrey"><big><big>MINHAS 'QUASE 20' TRANSLAÇÕES</big></big></br>
-                  </br>
-                   <big>Crescer na era digital e poder ver sua evolução até os dias atuais me faz sempre desejar e querer aspirar a Tecnologia, Computação e Programação por completo. Meus objetivos enquanto estudante é sair da faculdade com uma visão muito mais profunda a abrangente da Tecnologia da Informação, desenvolvendo minha lógica, conhecimento de banco de dados e redes e colocando em prática as mais diversas linguagens de programação. Além de poder ocupar a universidade além da sala de aula (nas iniciações científicas, palestras, projetos integradores, cursos complementares e etc) para enfim me sentir pronto para os estágios e vagas de trabalho para me tornar um desenvolvedor nato. No mercado de trabalho e ao longo dos anos, quero continuar aprendendo a cada dia e me especializando sempre, principalmente na Segurança e Defesa dos Ataques e Crimes Cibernéticos, contribuindo para que o ramo tecnológico seja sempre um espaço de inovação e íntegro. E ai, me acompanha nessa jornada?</big>
-                </p>
-             </td>
-             <td align="center" width="450" height="500"><img src="imagens/eu3_resized.jpg" width="450" heigth="500"></td>
-            </tr>
-          </table>
-       </div>
-
-
-      <!--CONTATO-->   
-       <div id="contact">
-
-          <table border="0" width="1300" height="100" align="center" bgcolor="0B1116">
-            <tr>
-              <td>
-               <center>
-                 <p style="width:250;height:30;background-color:#0B1116;border:0;color:white;font-family:verdana">
-                    <big><big><b>CONTACT</b></big></big>
-                 </p>
-               </center>
-              </td>
-            </tr>
-          </table>
-
-          <table border="0" width="1300" heigth="300" align="center" bgcolor="#101820">
-            <tr>
-              <td width="300"></td>
-              <td>
-                <form>
-                   <p align="left">Username</p>
-                   <input type="text"></br>
-                   <p align="left">Email</p>
-                   <input type="Email"></br></br></br>
-                   <input type="submit">
-                </form>
-              </td>
-              <td align="center">
-                <textarea rows="12" cols="50" textsize="6"></textarea>
-              </td>
-              <td width="300"></td>
-            </tr>
-          </table>
-
-          <table border="0" width="1300" heigth="30" align="center" bgcolor="#0B1116">
-            <tr>
-              <td>
-              </td>
-            </tr>
-        </table>
-
-          <table border="0" width="1300" heigth="30" align="center">
-            <tr>
-              <td>
-                <p align="center"><b>GABRIEL GONÇALVES DUARTE</b></p>
-                <p align="center">gabriel.duarte17@fatec.sp.gov.br</p>
-                <p align="center">+55 16 98213 7075</p>
-                <p align="center">Fatec Franca Dr. Thomaz Novelino</br>R. Irênio Greco, 4580 - Vila Imperador, 14405-191</br>Faculdade de Tecnologia em Franca, São Paulo, Brasil</p>
-
-                <p align="center" width="40">
-                  <a href="https://github.com/duartegab" title"GitHub"><img src="imagens/github.png" width="40" height="40"></a>
-                  <a href="https://www.linkedin.com/in/gabriel-duarte-97aaa6283/?external_page=LPC.Immersive&external_control=ViewProfileLink&external_app_instance=402a2d8d-7592-4d88-8757-48e124c6da25&external_page_instance=5acca512-a73f-4eae-83a9-8efda2b4b2c2&experiment=displayLinkedInDataPrebind" title"LinkedIn"><img src="imagens/linkedlnn.png" width="40" height="40"></a>
-               </p>
-               <p align="center" style="color:grey">₢ 2024 FATEC</p>
-              </td>
-            </tr>
-          </table>
-       </div>
+Segue em anexo os prints do site, explicando cada parte dele:
 
 
 
-    </body>
-</html>
+### 📋 Imagens
 
+Quer consultar as imagens de minha página individualmente? Siga as instruções:
+
+```
+Clique nesse link **[.\imagens/]([#-implanta%C3%A7%C3%A3o](https://github.com/duartegab/This_Is_Duartegab/.\imagens/))** para ter acesso as imagens do site.``````
+
+### ⌨️ Codificação-fonte utilizada
+
+Essas instruções permitirão que você consiga acessar meu código-fonte:
+```
+Clique nesse link **[index.html]([#-implanta%C3%A7%C3%A3o](https://github.com/duartegab/This_Is_Duartegab/index.html))** para ter acesso ao meu código-fonte.```
+
+## ✒️ Autores
+
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+
+* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
+* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+
+Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢;
+* Convide alguém da equipe para uma cerveja 🍺;
+* Um agradecimento publicamente 🫂;
+* etc.
+
+
+---
+⌨️ com ❤️ por [Gabriel Duarte](https://.github.com/duartegab) 😊
