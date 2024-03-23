@@ -6,7 +6,7 @@ Esse projeto, realizado em sala de aula, durante as aulas de Desevolvimento Web 
 
 Essas instruções permitirão que você consiga navegar em meu site:
 
-Clique nesse link **[This_is_Gabes]([#-implanta%C3%A7%C3%A3o](https://luminous-torrone-a434a9.netlify.app/))** para poder acessar minha página web.
+Clique nesse link **(https://luminous-torrone-a434a9.netlify.app/)** para poder acessar minha página web.
 
 
 ## 📄 Entendendo um pouco mais dessa viagem...
