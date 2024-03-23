@@ -13,20 +13,12 @@ Clique nesse link **(https://luminous-torrone-a434a9.netlify.app/)** para poder 
 
 Segue em anexo os prints do site, explicando cada parte dele:
 
+## ✒️ Acesso ao material
 
+As instruções abaixo irão permitir que você possa ter acesso ao meu código-fonte e imagens utilizadas:
 
-### 📋 Imagens
-
-Quer consultar as imagens de minha página individualmente? Siga as instruções:
-
-```
-Clique nesse link **[.\imagens/]([#-implanta%C3%A7%C3%A3o](https://github.com/duartegab/This_Is_Duartegab/.\imagens/))** para ter acesso as imagens do site.``````
-
-### ⌨️ Codificação-fonte utilizada
-
-Essas instruções permitirão que você consiga acessar meu código-fonte:
-```
-Clique nesse link **[index.html]([#-implanta%C3%A7%C3%A3o](https://github.com/duartegab/This_Is_Duartegab/index.html))** para ter acesso ao meu código-fonte.```
+* *Codificação* - Código-fonte - (https://github.com/duartegab/This_Is_Duartegab/blob/main/index.html)
+* *Galeria* - Imagens - (https://github.com/duartegab/This_Is_Duartegab/tree/main/imagens)
 
 ## ✒️ Autores
 
