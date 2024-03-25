@@ -15,7 +15,7 @@ Clique nesse link **(https://luminous-torrone-a434a9.netlify.app/)** para poder 
 Segue em anexo os prints do site, explicando cada parte dele:
 
 ![Home](https://github.com/duartegab/This_Is_Duartegab/blob/main/f3dfd0a1-7c3f-4d6a-ada7-8bb24b5cb27e.jpg?raw=true)
-Na guia 'Home', além de ter um título e uma breve descrição referente a mim, temos o icon principal do site no canto superior esquerdo e, no canto superior direito, temos 6 botões com links de direcionamento, dos quais 4 são referente a (home, values, about e contact), respectivamente, já os outros dois são icons do github e linkedIn que, ao clicar, levam a página até meu perfil profissional (referente as duas plataformas).
+Na guia 'Home', além de ter um título e uma breve descrição referente a mim, temos o icon principal do site no canto superior esquerdo e, no canto superior direito, temos 6 botões com links de direcionamento, dos quais 4 são referente a (home, about, values e contact), respectivamente, já os outros dois são icons do github e linkedIn que, ao clicar, levam a página até meu perfil profissional (referente as duas plataformas).
 
 
 
