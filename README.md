@@ -1,6 +1,6 @@
 # This Is Duartegab
 
-Esse projeto, realizado em sala de aula, durante as aulas de Desevolvimento Web 1. Gerou o primeiro contato dos alunos com a programação, elaborando um cúrriculo pessoal por meio da criação de um site. Em minha Página Web (programada em html), você irá conhecer um pouco mais sobre mim, navegando em meus valores, formação acadêmica, experiência, habilidades e futuros objetivos. Seja bem vindo!
+Esse projeto, realizado em sala de aula, durante as aulas de Desevolvimento Web 1. Gerou o primeiro contato dos alunos com a programação, elaborando um cúrriculo pessoal por meio da criação de um site. Em minha Página Web (programada 100% em HTML), você irá conhecer um pouco mais sobre mim, navegando em meus valores, formação acadêmica, experiência, habilidades e futuros objetivos. Seja bem vindo!
 
 
 ## 🚀 Entrando nesse voo
