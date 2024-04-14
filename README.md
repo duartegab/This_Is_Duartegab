@@ -15,7 +15,7 @@ Clique nesse link **(https://luminous-torrone-a434a9.netlify.app/)** para poder 
 Segue em anexo os prints do site, explicando cada parte dele:
 
 ![Home](https://github.com/duartegab/This_Is_Duartegab/blob/main/f3dfd0a1-7c3f-4d6a-ada7-8bb24b5cb27e.jpg?raw=true)
-Na guia 'Home', além de ter um título e uma breve descrição referente a mim, temos o icon principal do site no canto superior esquerdo e, no canto superior direito, temos 6 botões com links de direcionamento, dos quais 4 são referente a (home, about, values e contact), respectivamente, já os outros dois são icons do github e linkedIn que, ao clicar, levam a página até meu perfil profissional (referente as duas plataformas).
+Na guia 'Home', além de ter um título e uma breve descrição referente a mim, temos o icon principal do site no canto superior esquerdo e, no canto superior direito, temos 6 botões com links de direcionamento, dos quais 4 são referentes a (home, about, values e contact), respectivamente, já os outros dois são icons do github e linkedIn que, ao clicar, levam a página até meu perfil profissional (referente as duas plataformas).
 
 
 
@@ -52,7 +52,7 @@ As instruções abaixo irão permitir que você possa ter acesso ao meu código-
 ## 🎁 Gratidão
 
 * Desde já conto o apoio de vocês e peço que me sigam, para acompanharem junto comigo meu primeiro Projeto Integrador, que terá relação com minhas disciplinas-chave do meu 1º Semestre (Engenharia de Software 1, Desenvolvimento Web 1 e Design Digital)! 📢;
-* Agradeço ao meu professor Márcio Funes, que me instruiu com o projeto. E a minha família, amigos, que me motivam a cada dia mais para entrar no Ramo de Tecmologia da Informação, com o objetivo de construir uma carreira instável, sendo um profissional íntegro e inovador. 🫂;
+* Agradeço ao meu professor Márcio Funes, que me instruiu com o projeto. E a minha família, amigos, que me motivam a cada dia mais para entrar no Ramo de Tecnologia da Informação, com o objetivo de construir uma carreira instável, sendo um profissional íntegro e inovador. 🫂;
 
 ---
 ⌨️ com ❤️ por [Gabriel Duarte](https://github.com/duartegab) 😊
