@@ -52,7 +52,7 @@ As instruções abaixo irão permitir que você possa ter acesso ao meu código-
 ## 🎁 Gratidão
 
 * Desde já conto o apoio de vocês e peço que me sigam, para acompanharem junto comigo meu primeiro Projeto Integrador, que terá relação com minhas disciplinas-chave do meu 1º Semestre (Engenharia de Software 1, Desenvolvimento Web 1 e Design Digital)! 📢;
-* Agradeço ao meu professor Márcio Funes, que me instruiu com o projeto. E a minha família, amigos, que me motivam a cada dia mais para entrar no Ramo de Tecnologia da Informação, com o objetivo de construir uma carreira instável, sendo um profissional íntegro e inovador. 🫂;
+* Agradeço ao meu professor Márcio Funes, que me instruiu com o projeto. E a minha família, amigos, que me motivam a cada dia mais para entrar no Ramo de Tecnologia da Informação, com o objetivo de construir uma carreira estável, sendo um profissional íntegro e inovador. 🫂;
 
 ---
 ⌨️ com ❤️ por [Gabriel Duarte](https://github.com/duartegab) 😊
